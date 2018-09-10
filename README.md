@@ -1,5 +1,8 @@
 # Computer
 Notes on building a computer.
+Based on the [bitwise course](https://github.com/pervognsen/bitwise/blob/master/README.md).
+The course is based on C.
+It covers both software and hardware.
 
 ## Day 1
 
