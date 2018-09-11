@@ -1,5 +1,5 @@
 # Computer
-Notes on building a computer.
+Notes on building a computer from scratch , running on an FPGA.
 Based on the [bitwise course](https://github.com/pervognsen/bitwise/blob/master/README.md).
 The course is based on C.
 It covers both software and hardware.
